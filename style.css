@@ -1,0 +1,90 @@
+/* --- Header --- */
+
+.nav-link:hover {
+    background-color: #626872;
+}
+
+section, header {
+    margin-bottom: 25px;
+}
+
+.btn a {
+    color: black;
+}
+
+/* --- Cards --- */
+
+.miniportrait img {
+    border-radius: 5%;
+    opacity : 0.6;
+}
+.miniportrait2 img {
+    border-radius: 5%;
+    opacity : 0.6;
+}
+.miniportrait:hover img {
+    opacity: 1;
+}
+#cards .container {
+    padding-bottom: 25px;
+}
+.card-img-overlay {
+    color: #DAA520;
+}
+.card-img-overlay h4 {
+    color: black;
+}
+
+/* --- Reward --- */
+
+#reward .container {
+    border-top: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#reward .btn {
+    margin-left: 50%;
+}
+/* --- Best Hunters --- */
+
+#best-hunters .container {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* --- The Ring --- */
+
+#ring img {
+    border-radius: 100%;    
+}
+#ring .container {
+    margin-top: 20px;
+}
+
+/* --- Join Mordor Army ---*/
+
+#army .container {
+    border-top: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+/* --- Contact Us --- */
+
+#contact .container {
+    border-top: 1px solid black;
+    padding-top: 20px;
+}
+
+/* --- Footer --- */
+
+footer {
+    background-color:#292a2b;
+    padding : 10px;
+}
+footer a {
+    color: white;
+}
+
